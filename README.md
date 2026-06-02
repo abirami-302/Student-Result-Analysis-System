@@ -1,4 +1,4 @@
-# 🎓 SRIS — Student Result Intelligence System
+# 🎓 SRIS — Student Result Analysis System
 
 A full-stack AI-powered student academic analytics platform.
 
